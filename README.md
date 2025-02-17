@@ -1,13 +1,13 @@
 # Validador e Gerador de CPFs Brasileiros
 
-Este é um projeto simples e básico que permite validar e gerar números de CPF de forma automatizada.
+Este é um projeto simples e básico que permite validar e gerar números de CPF brasilerios de forma automatizada.
 
-## 📌 Funcionalidades:
+## Funcionalidades:
 
 - **Validar um CPF**: O programa verifica se um CPF digitado é válido com base no cálculo dos dígitos verificadores.
 - **Gerar um CPF válido**: Gera um CPF aleatório e válido seguindo as regras de formação do documento.
 
-## 🚀 Como usar:
+## Como usar:
 
 1. Execute o script Python.
 2. Escolha uma das opções no menu:
@@ -36,4 +36,4 @@ python cpf_validador_gerador.py
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo conforme necessário!
 
 ---
-Criado por Lucas Santos Amorim do Carmo 😁
+Criado por Lucas Santos Amorim do Carmo. 😁
